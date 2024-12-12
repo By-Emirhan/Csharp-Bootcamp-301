@@ -1,0 +1,17 @@
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\bin\Debug\Csharp-Bootcamp-301-DataAccessLayer.dll.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\bin\Debug\Csharp-Bootcamp-301-DataAccessLayer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\bin\Debug\Csharp-Bootcamp-301-DataAccessLayer.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\bin\Debug\Csharp-Bootcamp-301-EntityLayer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\bin\Debug\Csharp-Bootcamp-301-EntityLayer.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\bin\Debug\Csharp-Bootcamp-301-EntityLayer.dll.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\obj\Debug\Csharp-Bootcamp-301-DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\obj\Debug\Csharp-Bootcamp-301-DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\obj\Debug\Csharp-B.E60C59DB.Up2Date
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\obj\Debug\Csharp-Bootcamp-301-DataAccessLayer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\obj\Debug\Csharp-Bootcamp-301-DataAccessLayer.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\obj\Debug\Csharp_Bootcamp_301_DataAccessLayer.Migrations.mig1.resources
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\obj\Debug\Csharp-Bootcamp-301-DataAccessLayer.csproj.GenerateResource.cache

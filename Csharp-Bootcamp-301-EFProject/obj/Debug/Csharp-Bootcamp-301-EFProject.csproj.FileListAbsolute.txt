@@ -1,0 +1,17 @@
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\bin\Debug\Csharp-Bootcamp-301-EFProject.exe.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\bin\Debug\Csharp-Bootcamp-301-EFProject.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\bin\Debug\Csharp-Bootcamp-301-EFProject.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\bin\Debug\EntityFramework.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\bin\Debug\EntityFramework.xml
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\obj\Debug\Csharp-Bootcamp-301-EFProject.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\obj\Debug\Csharp_Bootcamp_301_EFProject.Form1.resources
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\obj\Debug\Csharp_Bootcamp_301_EFProject.Properties.Resources.resources
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\obj\Debug\Csharp-Bootcamp-301-EFProject.csproj.GenerateResource.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\obj\Debug\Csharp-Bootcamp-301-EFProject.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\obj\Debug\Csharp-B.81543406.Up2Date
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\obj\Debug\Csharp-Bootcamp-301-EFProject.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\obj\Debug\Csharp-Bootcamp-301-EFProject.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\obj\Debug\Csharp_Bootcamp_301_EFProject.FrmLocation.resources
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EFProject\obj\Debug\Csharp_Bootcamp_301_EFProject.FrmStatistic.resources

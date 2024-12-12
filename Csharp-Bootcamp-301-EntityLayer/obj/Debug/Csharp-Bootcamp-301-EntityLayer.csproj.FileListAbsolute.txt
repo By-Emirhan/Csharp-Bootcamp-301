@@ -1,0 +1,12 @@
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\bin\Debug\Csharp-Bootcamp-301-EntityLayer.dll.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\bin\Debug\Csharp-Bootcamp-301-EntityLayer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\bin\Debug\Csharp-Bootcamp-301-EntityLayer.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\obj\Debug\Csharp-Bootcamp-301-EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\obj\Debug\Csharp-Bootcamp-301-EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\obj\Debug\Csharp-B.7ACAF0FB.Up2Date
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\obj\Debug\Csharp-Bootcamp-301-EntityLayer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-EntityLayer\obj\Debug\Csharp-Bootcamp-301-EntityLayer.pdb

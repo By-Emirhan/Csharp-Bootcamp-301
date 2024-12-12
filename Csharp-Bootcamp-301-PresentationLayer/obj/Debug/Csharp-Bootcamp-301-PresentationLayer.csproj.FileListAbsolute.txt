@@ -1,0 +1,10 @@
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\bin\Debug\Csharp-Bootcamp-301-PresentationLayer.exe.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\bin\Debug\Csharp-Bootcamp-301-PresentationLayer.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\bin\Debug\Csharp-Bootcamp-301-PresentationLayer.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\obj\Debug\Csharp-Bootcamp-301-PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\obj\Debug\Csharp_Bootcamp_301_PresentationLayer.Form1.resources
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\obj\Debug\Csharp_Bootcamp_301_PresentationLayer.Properties.Resources.resources
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\obj\Debug\Csharp-Bootcamp-301-PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\obj\Debug\Csharp-Bootcamp-301-PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\obj\Debug\Csharp-Bootcamp-301-PresentationLayer.exe
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\obj\Debug\Csharp-Bootcamp-301-PresentationLayer.pdb
