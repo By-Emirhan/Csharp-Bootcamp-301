@@ -3,4 +3,4 @@ Murat Yücedağ C# Eğitim Kampı 301
 
 ## 📸 Ekran Görüntüsü
 
-![![alt](/3.Case_Readme.PNG)]
+![image](/3.Case_Readme.PNG)
