@@ -95,6 +95,14 @@
       <Project>{975b126b-ce4e-4cd1-878e-6f638707f895}</Project>
       <Name>Csharp-Bootcamp-301-BusinessLayer</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Csharp-Bootcamp-301-DataAccessLayer\Csharp-Bootcamp-301-DataAccessLayer.csproj">
+      <Project>{E2F2A92A-56AE-4AFB-A57F-6B76FBC2E799}</Project>
+      <Name>Csharp-Bootcamp-301-DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Csharp-Bootcamp-301-EntityLayer\Csharp-Bootcamp-301-EntityLayer.csproj">
+      <Project>{4FAFC922-6D15-418E-8D51-1B575A63B02A}</Project>
+      <Name>Csharp-Bootcamp-301-EntityLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

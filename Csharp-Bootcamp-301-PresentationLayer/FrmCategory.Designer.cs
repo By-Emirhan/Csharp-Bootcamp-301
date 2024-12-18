@@ -31,7 +31,7 @@
             this.btnUpdate = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
             this.btnAdd = new System.Windows.Forms.Button();
-            this.txtCustomerName = new System.Windows.Forms.TextBox();
+            this.txtCategoryName = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.btnList = new System.Windows.Forms.Button();
@@ -55,6 +55,7 @@
             this.btnUpdate.TabIndex = 44;
             this.btnUpdate.Text = "Güncelle";
             this.btnUpdate.UseVisualStyleBackColor = false;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnDelete
             // 
@@ -67,6 +68,7 @@
             this.btnDelete.TabIndex = 43;
             this.btnDelete.Text = "Sil";
             this.btnDelete.UseVisualStyleBackColor = false;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 
             // btnAdd
             // 
@@ -79,13 +81,14 @@
             this.btnAdd.TabIndex = 42;
             this.btnAdd.Text = "Ekle";
             this.btnAdd.UseVisualStyleBackColor = false;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
-            // txtCustomerName
+            // txtCategoryName
             // 
-            this.txtCustomerName.Location = new System.Drawing.Point(101, 44);
-            this.txtCustomerName.Name = "txtCustomerName";
-            this.txtCustomerName.Size = new System.Drawing.Size(128, 20);
-            this.txtCustomerName.TabIndex = 39;
+            this.txtCategoryName.Location = new System.Drawing.Point(101, 44);
+            this.txtCategoryName.Name = "txtCategoryName";
+            this.txtCategoryName.Size = new System.Drawing.Size(128, 20);
+            this.txtCategoryName.TabIndex = 39;
             // 
             // label2
             // 
@@ -94,7 +97,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(67, 13);
             this.label2.TabIndex = 38;
-            this.label2.Text = "Kullanıcı Adı:";
+            this.label2.Text = "Kategori Adı:";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // dataGridView1
@@ -116,6 +119,7 @@
             this.btnList.TabIndex = 36;
             this.btnList.Text = "Listele";
             this.btnList.UseVisualStyleBackColor = false;
+            this.btnList.Click += new System.EventHandler(this.btnList_Click);
             // 
             // txtID
             // 
@@ -131,7 +135,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(63, 13);
             this.label1.TabIndex = 34;
-            this.label1.Text = "Kullanıcı ID:";
+            this.label1.Text = "Kategori ID:";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnGetByID
@@ -145,6 +149,7 @@
             this.btnGetByID.TabIndex = 45;
             this.btnGetByID.Text = "ID\'ye göre getir";
             this.btnGetByID.UseVisualStyleBackColor = false;
+            this.btnGetByID.Click += new System.EventHandler(this.btnGetByID_Click);
             // 
             // label3
             // 
@@ -153,7 +158,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(89, 13);
             this.label3.TabIndex = 46;
-            this.label3.Text = "Kullanıcı Durumu:";
+            this.label3.Text = "Kategori Durumu:";
             // 
             // rdbAktif
             // 
@@ -162,7 +167,6 @@
             this.rdbAktif.Name = "rdbAktif";
             this.rdbAktif.Size = new System.Drawing.Size(46, 17);
             this.rdbAktif.TabIndex = 47;
-            this.rdbAktif.TabStop = true;
             this.rdbAktif.Text = "Aktif";
             this.rdbAktif.UseVisualStyleBackColor = true;
             // 
@@ -173,7 +177,6 @@
             this.rdbPasif.Name = "rdbPasif";
             this.rdbPasif.Size = new System.Drawing.Size(48, 17);
             this.rdbPasif.TabIndex = 48;
-            this.rdbPasif.TabStop = true;
             this.rdbPasif.Text = "Pasif";
             this.rdbPasif.UseVisualStyleBackColor = true;
             // 
@@ -190,7 +193,7 @@
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnAdd);
-            this.Controls.Add(this.txtCustomerName);
+            this.Controls.Add(this.txtCategoryName);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btnList);
@@ -209,7 +212,7 @@
         private System.Windows.Forms.Button btnUpdate;
         private System.Windows.Forms.Button btnDelete;
         private System.Windows.Forms.Button btnAdd;
-        private System.Windows.Forms.TextBox txtCustomerName;
+        private System.Windows.Forms.TextBox txtCategoryName;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button btnList;
