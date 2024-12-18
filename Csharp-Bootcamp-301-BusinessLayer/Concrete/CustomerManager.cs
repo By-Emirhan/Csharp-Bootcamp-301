@@ -1,4 +1,5 @@
 ﻿using Csharp_Bootcamp_301_BusinessLayer.Abstract;
+using Csharp_Bootcamp_301_DataAccessLayer.Abstract;
 using Csharp_Bootcamp_301_EntityLayer.Concrete;
 using System;
 using System.Collections.Generic;
@@ -10,24 +11,24 @@ namespace Csharp_Bootcamp_301_BusinessLayer.Concrete
 {
     public class CustomerManager : ICustomerService
     {
-        private readonly ICustomerService _customerService;
-        public CustomerManager(ICustomerService customerService)
+        private readonly ICustomerDal _customerDal;
+        public CustomerManager(ICustomerDal customerDal)
         {
-            _customerService = customerService;
+            _customerDal = customerDal;
         }
         public void TDelete(Customer entity)
         {
-            _customerService.TDelete(entity);
+            _customerDal.Delete(entity);
         }
 
         public List<Customer> TGetAll()
         {
-            return _customerService.TGetAll();
+            return _customerDal.GetAll();
         }
 
         public Customer TGetById(int id)
         {
-            return _customerService.TGetById(id);
+            return _customerDal.GetById(id);
         }
 
         public void TInsert(Customer entity)
@@ -44,7 +45,7 @@ namespace Csharp_Bootcamp_301_BusinessLayer.Concrete
 
         public void TUpdate(Customer entity)
         {
-            _customerService.TUpdate(entity);
+            _customerDal.Update(entity);
         }
     }
 }
