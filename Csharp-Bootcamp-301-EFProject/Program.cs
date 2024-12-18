@@ -16,7 +16,7 @@ namespace Csharp_Bootcamp_301_EFProject
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmStatistic());
+            Application.Run(new FrmLocation());
         }
     }
 }

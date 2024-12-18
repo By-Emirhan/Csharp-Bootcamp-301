@@ -1,0 +1,15 @@
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\bin\Debug\Csharp-Bootcamp-301-BusinessLayer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\bin\Debug\Csharp-Bootcamp-301-BusinessLayer.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\bin\Debug\Csharp-Bootcamp-301-DataAccessLayer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\bin\Debug\Csharp-Bootcamp-301-EntityLayer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\bin\Debug\Csharp-Bootcamp-301-DataAccessLayer.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\bin\Debug\Csharp-Bootcamp-301-DataAccessLayer.dll.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\bin\Debug\Csharp-Bootcamp-301-EntityLayer.pdb
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\bin\Debug\Csharp-Bootcamp-301-EntityLayer.dll.config
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\obj\Debug\Csharp-Bootcamp-301-BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\obj\Debug\Csharp-Bootcamp-301-BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\obj\Debug\Csharp-B.E27315B5.Up2Date
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\obj\Debug\Csharp-Bootcamp-301-BusinessLayer.dll
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-BusinessLayer\obj\Debug\Csharp-Bootcamp-301-BusinessLayer.pdb
