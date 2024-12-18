@@ -9,5 +9,6 @@ namespace Csharp_Bootcamp_301_BusinessLayer.Abstract
 {
     public interface IProductService:IGenericService<Product>
     {
+        List<object> TGetProductsWithCategory();
     }
 }

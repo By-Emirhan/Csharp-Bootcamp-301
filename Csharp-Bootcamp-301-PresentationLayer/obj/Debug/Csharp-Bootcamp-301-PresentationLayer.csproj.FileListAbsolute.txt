@@ -21,3 +21,4 @@ C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-Presentati
 C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\bin\Debug\Csharp-Bootcamp-301-DataAccessLayer.dll.config
 C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\obj\Debug\Csharp_Bootcamp_301_PresentationLayer.FrmCategory.resources
 C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\obj\Debug\Csharp-B.BFFBD17C.Up2Date
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-PresentationLayer\obj\Debug\Csharp_Bootcamp_301_PresentationLayer.FrmProduct.resources

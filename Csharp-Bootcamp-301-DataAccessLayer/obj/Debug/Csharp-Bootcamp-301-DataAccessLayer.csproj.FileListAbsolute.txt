@@ -15,3 +15,4 @@ C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccess
 C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\obj\Debug\Csharp-Bootcamp-301-DataAccessLayer.pdb
 C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\obj\Debug\Csharp_Bootcamp_301_DataAccessLayer.Migrations.mig1.resources
 C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\obj\Debug\Csharp-Bootcamp-301-DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\Emirhan\source\repos\Csharp-Bootcamp-301\Csharp-Bootcamp-301-DataAccessLayer\obj\Debug\Csharp_Bootcamp_301_DataAccessLayer.Migrations.Mig2.resources

@@ -16,7 +16,7 @@ namespace Csharp_Bootcamp_301_PresentationLayer
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmCategory());
+            Application.Run(new FrmProduct());
         }
     }
 }

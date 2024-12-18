@@ -9,5 +9,6 @@ namespace Csharp_Bootcamp_301_DataAccessLayer.Abstract
 {
     public interface IProductDal:IGenericDal<Product>
     {
+        List<object> GetProductsWithCategory();
     }
 }
