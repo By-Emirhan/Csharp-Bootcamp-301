@@ -74,6 +74,7 @@
             this.btnGetByID.TabIndex = 58;
             this.btnGetByID.Text = "ID\'ye göre getir";
             this.btnGetByID.UseVisualStyleBackColor = false;
+            this.btnGetByID.Click += new System.EventHandler(this.btnGetByID_Click);
             // 
             // btnUpdate
             // 
@@ -86,6 +87,7 @@
             this.btnUpdate.TabIndex = 57;
             this.btnUpdate.Text = "Güncelle";
             this.btnUpdate.UseVisualStyleBackColor = false;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnDelete
             // 
@@ -111,6 +113,7 @@
             this.btnAdd.TabIndex = 55;
             this.btnAdd.Text = "Ekle";
             this.btnAdd.UseVisualStyleBackColor = false;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // txtProductName
             // 
@@ -203,6 +206,7 @@
             // 
             // cmbCategory
             // 
+            this.cmbCategory.ForeColor = System.Drawing.Color.Red;
             this.cmbCategory.FormattingEnabled = true;
             this.cmbCategory.Location = new System.Drawing.Point(82, 121);
             this.cmbCategory.Name = "cmbCategory";
@@ -266,12 +270,13 @@
             this.btnList2.TabIndex = 68;
             this.btnList2.Text = "Listele";
             this.btnList2.UseVisualStyleBackColor = false;
-            this.btnList2.Click += new System.EventHandler(this.button1_Click);
+            this.btnList2.Click += new System.EventHandler(this.btnList2_Click);
             // 
             // FrmProduct
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(38)))), ((int)(((byte)(21)))));
             this.ClientSize = new System.Drawing.Size(813, 406);
             this.Controls.Add(this.btnList2);
@@ -296,6 +301,7 @@
             this.MaximizeBox = false;
             this.Name = "FrmProduct";
             this.Text = "FrmProduct";
+            this.Load += new System.EventHandler(this.FrmProduct_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
